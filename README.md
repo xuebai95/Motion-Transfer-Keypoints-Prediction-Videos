@@ -4,7 +4,7 @@
 This is a repo containing generated videos using VRNN for keypoints prediction in the First Order Motion Model (FOMM) pipeline. 
 
 ## Directory Contents:
-**The Generated_Videos folder** contains sample videos for the VoxCeleb dataset that have been generated in reconstruction and transfer modes using a prediction horizon of 12 video frames.
+**The Generated_Videos folder** contains sample videos for the Mgif anf VoxCeleb dataset that have been generated in reconstruction and transfer modes using a prediction horizon of 12 video frames. The red box denotes the peroid that the frames are under prediction.
 In each video, there are 4 boxes as follows: 
 
 1.  The source image 
